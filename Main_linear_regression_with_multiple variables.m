@@ -1,4 +1,4 @@
-%% Machine Learning - Linear regression with multiple variables
+%% Machine Learning - 
 %
 %     I think this file isn't working properly, remember to check before runnning it!
 %
