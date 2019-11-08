@@ -13,14 +13,6 @@ J_history = zeros(num_iters, 1);  % Return a matrix or N-dimensional array
 
 for iter = 1:num_iters
 
-    % ====================== YOUR CODE HERE ======================
-    % Instructions: Perform a single gradient step on the parameter vector
-    %               theta. 
-    %
-    % Hint: While debugging, it can be useful to print out the values
-    %       of the cost function (computeCost) and gradient here.
-    %
-
     % You can check the pdf i made, page 23, the picture of the slide
     % express very well what we do here
     
